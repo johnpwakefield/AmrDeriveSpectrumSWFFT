@@ -1,0 +1,4 @@
+
+CEXE_sources += AmrDeriveSpectrum.cpp
+CEXE_sources += AMReX_DataServices.cpp AMReX_AmrData.cpp
+
